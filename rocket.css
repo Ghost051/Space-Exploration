@@ -1,0 +1,93 @@
+ #background {
+    background-image: url(https://wallpaperboat.com/wp-content/uploads/2020/09/23/55496/spacex-14.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 800px;
+    transform: scale(1.1);
+    width: 1370px;
+    position: relative;
+  }
+  #pic{
+    position: absolute;
+    top:150px;
+    left: 750px;
+    background-image: url(https://besthqwallpapers.com/Uploads/12-5-2021/167771/thumb2-starship-sn9-4k-sunset-heavy-rocket-spacex-starships.jpg);
+    height: 400px;
+    width: 700px;
+    margin-top: -30px;
+    
+    
+    
+    }
+  #rocket1{
+      left:30px;
+      position: absolute;
+      top:50px;
+      color:white; 
+      font-size:35px;
+      
+      width:400px;
+      font-size:35px;
+      font-family: "Roboto", sans-serif;
+  }
+  #rocket2{
+    
+    position: absolute;
+    top:90px;
+    left:30px;
+    color:white; 
+    font-size:35px;
+    margin-left: 0px;
+    width:400px;
+    font-size:35px;
+    font-family: "Roboto", sans-serif;
+}
+
+#rocket3{
+    
+    position: absolute;
+    top:150px;
+    left:30px;
+    color:white; 
+    font-size:35px;
+    margin-left: 0px;
+    width:400px;
+    font-size:20px;
+    font-family: "Roboto", sans-serif;
+}
+
+#menu1{
+    position: absolute;
+    top: 600px;
+    left:300px;
+    font-size: 25px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    color: white;
+    text-align: right;
+    padding: 24px;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+}
+li{
+    float: left;
+    list-style-type: none;
+    margin: 25px;
+    
+}
+
+#star{
+    position: absolute;
+    top:530px;
+    right:50px;
+    color:white; 
+    font-size:35px;
+    margin-left: 0px;
+    width:480px;
+    font-size:20px;
+    font-family: "Roboto", sans-serif;
+}

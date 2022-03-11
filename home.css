@@ -1,0 +1,67 @@
+#background{
+    background-image: url(https://free4kwallpapers.com/uploads/originals/2021/01/11/planet-earth-wallpaper.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 800px;
+    transform: scale(1.1);
+    width: 1370px;
+}
+#menu {
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    color: white;
+    text-align: right;
+    padding: 24px;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    position: absolute;
+    top: 330px;
+    left: 350px;
+    font-size: 25px;
+  }
+  li 
+  {
+    float: left;
+    list-style-type: none;
+    margin: 125px;
+    color:white
+
+  }
+  #page1{
+    color:white;
+    position: absolute;
+    top:50px;
+    left: 50px;
+    font-family: "Roboto", sans-serif
+    
+
+  }
+  #page2{
+    color:white;
+    position: absolute;
+    top:80px;
+    left: 50px;
+    font-family: "Roboto", sans-serif
+    
+  }
+  #page3{
+    color:white;
+    position: absolute;
+    top:110px;
+    left: 50px;
+    font-family: "Roboto", sans-serif
+  }
+  #page4{
+    color:white;
+    position: absolute;
+    top:410px;
+    left: 750px;
+    font-family: "Roboto", sans-serif
+
+  
+  }
